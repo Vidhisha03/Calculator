@@ -24,5 +24,3 @@ This project is a basic calculator application that allows users to perform simp
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me.
-
-Thank you for checking out my calculator project! Happy calculating!
